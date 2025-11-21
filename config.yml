@@ -1,0 +1,5 @@
+# Define folders and locations with the file types that you wish to have sorted
+
+folder_name:
+  location: "C:/somewhere/over/the/rainbow"
+  filetypes:
